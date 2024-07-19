@@ -1,7 +1,7 @@
 # **Bienvenido a mi repositorio!**
 
 ## Sobre mí
-- Soy Mxczly, desarrollé en [Roblox](https://www.roblox.com/) desde 2021. Desempeñé roles y encargos de logística, comisión y desarrollo interno de manera gradual hasta Junio del 2024, cuando abandoné todo tipo de conexión con la plataforma y me empecé a enfocar en otros proyectos y ambiciones más potenciadas. Soy originario de Colombia y tengo 15 años. Contribuí a más de 400k visitas. Siempre enfocado en ideales de innovación y habilidad.
+- Soy 1rkc, mejor conocido por el nombre de Reo o Mxczly, desarrollé en [Roblox](https://www.roblox.com/) desde 2021. Desempeñé roles y encargos de logística, comisión y desarrollo interno de manera gradual hasta Junio del 2024, cuando abandoné todo tipo de conexión con la plataforma y me empecé a enfocar en otros proyectos y ambiciones más potenciadas. Soy originario de Colombia y tengo 15 años. Contribuí a más de 400k visitas. Siempre enfocado en ideales de innovación y habilidad.
 
 ### Contacto
 - 𝕏 (formalmente Twitter): https://x.com/Mxczly
