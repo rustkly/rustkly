@@ -5,7 +5,7 @@
 
 ### Contacto
 - 𝕏 (formalmente Twitter): https://x.com/Mxczly
-- GitHub: https://github.com/Mxczly
+- GitHub: https://github.com/1rkc
 - Perfil de Discord: 1rkc (Bloqueado)
 
 ## Atribuciones, y actualidad
