@@ -6,7 +6,7 @@
 ### Contacto
 - 𝕏 (formalmente Twitter): https://x.com/Mxczly
 - GitHub: https://github.com/1rkc
-- Perfil de Discord: 1rkc (Bloqueado)
+- Perfil de Discord: from_two_to_thirtytwo_characters (Bloqueado)
 
 ## Atribuciones, y actualidad
 Si bien abandoné la plataforma más que recientemente no significa que no esté bajo condiciones de trabajo actuales y no prosiga en procesos de desarrollo, estoy creando y dándo soporte continuo a un proyecto propio y autónomo creado para el juego Survivalcraft 2, nombrado comúnmente como ConceptSC y usando un launcher personalizado conocido como Concept Client.
