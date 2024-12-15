@@ -1,17 +1,15 @@
 # **Bienvenido a mi repositorio!**
 
 ## Sobre mí
-- Soy 1rkc, mejor conocido por el nombre de Reo o Mxczly, desarrollé en [Roblox](https://www.roblox.com/) desde 2021. Desempeñé roles y encargos de logística, comisión y desarrollo interno de manera gradual hasta Junio del 2024, cuando abandoné todo tipo de conexión con la plataforma y me empecé a enfocar en otros proyectos y ambiciones más potenciadas. Soy originario de Colombia y tengo 15 años. Contribuí a más de 400k visitas. Siempre enfocado en ideales de innovación y habilidad.
+- Soy [capitulador](https://www.roblox.com/es/users/3786112410/profile), mejor conocido en la comunidad de Roblox como Capi o Maxi. Soy un desarrolllador independiente que se ha dedicado a la creación, innovación y logística entorno a comunidades y proyectos propios. Tengo 15 años, y he colaborado al menos a 400k visitas (y contando). Soy Colombiano y hablo dos idiomas, inglés y español, además de eso, comprendo con seguridad el Portugués y el Catalán. Manipulo Android mediante Magisk y TWRP, además de eso, desde Diciembre del 2024 uso la distro Linux Mint como sistema principal. Soy Bachiller Técnico.
 
 ### Contacto
-- 𝕏 (formalmente Twitter): https://x.com/Mxczly
-- GitHub: https://github.com/1rkc
-- Perfil de Discord: from_two_to_thirtytwo_characters (Bloqueado)
+- 𝕏 https://x.com/capitulador
+- GitHub: https://github.com/capitulador
+- Perfil de Discord: capitulador
 
 ## Atribuciones, y actualidad
-Si bien abandoné la plataforma más que recientemente no significa que no esté bajo condiciones de trabajo actuales y no prosiga en procesos de desarrollo, estoy creando y dándo soporte continuo a un proyecto propio y autónomo creado para el juego Survivalcraft 2, nombrado comúnmente como ConceptSC y usando un launcher personalizado conocido como Concept Client.
-
-Mis atribuciones más conocidas fueron hechas en la plataforma Roblox, en su mayoría desaparecidas o abandonadas, son las siguientes:
+Mis atribuciones más conocidas fueron hechas en la plataforma Roblox, son las siguientes:
 
 - [FARA Ejército Argentino](https://www.roblox.com/groups/32871151/FARA-Grupo-Principal#!/about) Desarrollo, Diseño UI.
 - [SORVIA / Santa Organización Violeta](https://www.roblox.com/groups/13930237/SORVIA) Diseño GFX.
@@ -19,9 +17,8 @@ Mis atribuciones más conocidas fueron hechas en la plataforma Roblox, en su may
 - [LFP | La Fuerza Presidencial](https://www.roblox.com/groups/6833533/LFP-Studio#!/about) Diseño GFX (proyecto cancelado)
 - [Rebance Games / SURANOVA](https://www.roblox.com/groups/12062461/Rebance-Games) Editor, Diseño Gráfico.
 - [Survivalcraft Content Community](https://discord.gg/survivalcraft) Traducción, mejora gradual del idioma español.
+- [EJC · Ejército Nacional de Colombia](https://www.roblox.com/es/communities/34984441/EJC-Ej-rcito-Nacional-de-Colombia#!/about) Creador, Programador, Builder, Diseñador UI.
 
-Además, he sido conocido por haber creado contenido y editado algunos videos, de índole personal, o de modo de prueba. Que no fueron ni serán revelados al público.
+Keep capitulating! <3
 
-Gracias por leer! With Love, 1rkc <3
-
-//--
+//-- :3
